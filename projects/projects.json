@@ -1992,6 +1992,22 @@
         "Tests Included",
         "Python", "Google App Engine"
       ]
+    },
+    {
+      "name": "Octopus Deploy",
+      "thumb": "octopusdeploy/thumb.png",
+      "desc": "Octopus Deploy is a friendly deployment automation system for .NET developers.",
+      "url": "http://octopusdeploy.com",
+      "info": "http://octopusdeploy.com/tour",
+      "submitter": "paulstovell",
+      "submissionDate": "2014-04-08",
+      "tags": [
+        "Production",
+        "Automation",
+        "SlickGrid", 
+        "Bootstrap",
+        "jQuery"
+      ]
     }
 
   ]
